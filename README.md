@@ -1,6 +1,3 @@
-# capex-precast-analysis
-Bottom-up CAPEX model and sourcing analysis for precast concrete structural package
-
 # CAPEX & Sourcing Analysis – Precast Concrete Structural Package
 
 **Author:** Kinga Kozłowska  
@@ -58,11 +55,11 @@ All assumptions are documented with public sources and professional judgement fr
 
 ## Files
 
-| File | Description |
-|------|-------------|
-| `CAPEX_Analysis_Final.xlsx` | Full parametric bottom-up CAPEX model — 5 sheets: Assumptions (with sources), Bill of Quantities, CAPEX Model, Carbon Analysis, Sensitivity Analysis |
-| `Tableau_Clean_FINAL.xlsx` | Clean long-format data export for Tableau — 4 sheets: CAPEX Breakdown, Scenario Summary, Carbon Analysis, Sensitivity |
-| `Breakeven_Analysis_CAPEX.xlsx` | Break-even analysis — Poland transport rate vs Norway fixed CAPEX across full rate range |
+| File | Download | View Online |
+|------|----------|-------------|
+| `CAPEX_Analysis_Final.xlsx` — Full parametric bottom-up CAPEX model (5 sheets: Assumptions with sources, Bill of Quantities, CAPEX Model, Carbon Analysis, Sensitivity Analysis) | [Download](CAPEX_Analysis_Final.xlsx) | [Open in Google Sheets](https://docs.google.com/spreadsheets/d/1rwSCdChe7WrIjKBNyegjSSybnL0Ocb9V/edit?gid=1336113874#gid=1336113874) |
+| `Tableau_Clean_FINAL.xlsx` — Clean long-format data export for Tableau (4 sheets: CAPEX Breakdown, Scenario Summary, Carbon Analysis, Sensitivity) | [Download](Tableau_Clean_FINAL.xlsx) | [Open in Google Sheets](https://docs.google.com/spreadsheets/d/1YIg7CzwddanoBdoGnT2epNW4BE2vLpLL/edit?gid=1786779509#gid=1786779509) |
+| `Breakeven_Analysis_CAPEX.xlsx` — Break-even analysis: Poland transport rate vs Norway fixed CAPEX across full rate range | [Download](Breakeven_Analysis_CAPEX.xlsx) | [Open in Google Sheets](https://docs.google.com/spreadsheets/d/10cZB4eA1g9pIH3rEtL86HXvC7LgrLKTX/edit?gid=1569675644#gid=1569675644) |
 
 ---
 
@@ -97,5 +94,3 @@ Dashboard covers two pages:
 ## About
 
 This project was built to demonstrate capital project analysis thinking — bottom-up cost modelling, location sensitivity, logistics optimisation and sustainability cost quantification — directly applicable to roles in capital project advisory and should-cost analysis.
-
-Background: MSc Structural Engineering (University of Stavanger) · 4.5 years designing precast concrete structures for large-scale infrastructure projects in Norway (Lervigskvartalet, SUS Hospital, Alta Handelspark) · MBA Essentials, LSE.
